@@ -1,22 +1,24 @@
 ---
-title: Servicio 2
-slug: servicio-2
-icon: Rocket
-summary: Descripción breve y genérica del segundo servicio que ofrecemos a nuestros clientes.
-coverImage: /content-uploads/service-2.jpg
-ctaLabel: Solicitar información
-ctaHref: /contacto
+title: "Frenos"
+slug: "frenos"
 order: 2
-featured: false
+icon: "disc"
+summary: "Balatas, discos, tambores y líquido. No esperamos a que truenen."
+coverImage: "/content-uploads/octane/services/frenos-cover.jpg"
+ctaLabel: "Cotizar este servicio"
+ctaHref: "/contacto"
+featured: true
 ---
 
-## ¿Qué incluye el Servicio 2?
+Los frenos no avisan dos veces. Si ya escuchaste algo, ya esperaste demasiado.
 
-Texto genérico que describe el segundo servicio en detalle. Cubre el alcance, los entregables y los principales beneficios.
+Revisamos el sistema de frenos completo: pastillas, discos, tambores, calibradores, líquido y líneas. No cambiamos piezas innecesariamente — solo lo que la inspección confirma que necesita reemplazo.
 
-- Beneficio uno: descripción breve.
-- Beneficio dos: descripción breve.
+**Lo que incluye:**
+- Inspección completa del sistema de frenado (delantero y trasero)
+- Medición de espesor de discos y pastillas
+- Revisión de calibradores y líneas hidráulicas
+- Cambio de líquido de frenos (si aplica)
+- Prueba de funcionamiento después del servicio
 
-## Para quién es
-
-Describe en una oración el perfil de cliente al que está orientado este servicio.
+**Garantía:** 90 días en piezas y mano de obra.

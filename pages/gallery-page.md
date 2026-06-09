@@ -1,6 +1,6 @@
 ---
-title: Galería
-subtitle: Una selección visual de nuestro trabajo, procesos y resultados.
-description: Explorá imágenes de trabajos, resultados y momentos destacados.
-emptyMessage: Todavía no hay imágenes publicadas. Volvé pronto para ver novedades.
+title: "La Evidencia Habla Sola"
+subtitle: "Fotos reales de trabajos reales. Sin filtros, sin Photoshop — solo el antes y el después."
+description: "Galería de trabajos de Octane Mecánica — chapa, pintura, mecánica."
+emptyMessage: "Pronto subimos los primeros trabajos. Seguinos en redes para ver novedades."
 ---

@@ -1,10 +1,9 @@
 ---
-heroTitle: Contactanos
-heroSubtitle: Estamos a un mensaje de distancia. Contanos cómo podemos ayudarte.
-formTitle: Envianos un mensaje
-formSuccessMessage: ¡Gracias! Recibimos tu mensaje. Te responderemos en menos de 24 horas.
+heroTitle: "LLEGA AL TALLER"
+heroSubtitle: "Contáctanos por el medio que prefieras. Respuesta en menos de 2 horas en horario de atención."
+formTitle: "Coordina tu visita"
+formSuccessMessage: "Recibimos tu mensaje. Te respondemos en menos de 2 horas en horario de atención. También podés escribirnos directo por WhatsApp."
 showMap: true
 showCalcom: false
-extraInfo: |
-  Tambien podés escribirnos directamente por WhatsApp.
+extraInfo: "También podés escribirnos directo por WhatsApp para una respuesta más rápida."
 ---

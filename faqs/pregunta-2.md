@@ -1,9 +1,10 @@
 ---
-slug: pregunta-2
-question: ¿Pregunta frecuente número 2?
-category: General
+question: "¿Hacen garantía por los trabajos?"
+category: "Garantía"
 order: 2
-featured: false
+featured: true
 ---
 
-Respuesta genérica y breve a la segunda pregunta frecuente.
+Sí — 90 días por escrito en mecánica y 6 meses en pintura completa.
+
+Si algo falla por causa nuestra dentro de ese período, lo corregimos sin costo adicional. La garantía la entregamos en papel con el detalle del trabajo realizado, para que no haya ambigüedades.

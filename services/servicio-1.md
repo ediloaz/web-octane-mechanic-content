@@ -1,23 +1,24 @@
 ---
-title: Servicio 1
-slug: servicio-1
-icon: Sparkles
-summary: Descripción breve y genérica del primer servicio que ofrecemos.
-coverImage: /content-uploads/service-1.jpg
-ctaLabel: Solicitar información
-ctaHref: /contacto
+title: "Diagnóstico Eléctrico y Computarizado"
+slug: "diagnostico-electrico-computarizado"
 order: 1
+icon: "cpu"
+summary: "Escáner de códigos OBD + revisión del sistema eléctrico. Sin adivinar."
+coverImage: "/content-uploads/octane/services/diagnostico-electrico-cover.jpg"
+ctaLabel: "Cotizar este servicio"
+ctaHref: "/contacto"
 featured: true
 ---
 
-## ¿Qué incluye el Servicio 1?
+No adivines qué tiene tu auto — saberlo cuesta menos que arreglar lo que no era.
 
-Texto genérico que describe en profundidad el primer servicio. Detalla los puntos clave, el alcance del trabajo y los beneficios para el cliente.
+Usamos escáner OBD de última generación para leer todos los módulos del vehículo: motor, transmisión, ABS, airbags, climatización y más. El reporte te lo entregamos por escrito, con cada código explicado en términos que se entienden.
 
-- Beneficio uno: descripción breve.
-- Beneficio dos: descripción breve.
-- Beneficio tres: descripción breve.
+**Lo que incluye:**
+- Escaneo completo de todos los sistemas del vehículo
+- Lectura e interpretación de códigos de falla activos e históricos
+- Revisión visual del sistema eléctrico (fusibles, cableado, batería, alternador)
+- Reporte escrito de hallazgos y recomendaciones
+- Presupuesto detallado antes de cualquier intervención
 
-## ¿Cómo funciona?
-
-Descripción paso a paso del proceso de entrega del servicio. Cada paso se describe en una o dos oraciones simples para que el cliente entienda qué esperar.
+**Sin cargo por el diagnóstico si aprobás el trabajo.**

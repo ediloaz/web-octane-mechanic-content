@@ -1,8 +1,7 @@
 ---
-title: Equipo en acción
-slug: galeria-1
-image: /content-uploads/gallery/galeria-1.jpg
-alt: Equipo trabajando en proyecto de cliente
-category: Proceso
+title: "Choque lateral — Puerta y guardafango"
+image: "/content-uploads/octane/gallery/trabajo-01-despues.jpg"
+alt: "Puerta delantera restaurada tras choque lateral, pintura igualada"
+category: "Chapa"
 order: 1
 ---

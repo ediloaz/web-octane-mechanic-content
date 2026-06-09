@@ -1,35 +1,33 @@
 ---
-heroTitle: Sin conexión al contenido
-heroSubtitle: Estás viendo el mockup local del boilerplate. Conectá el Repo B para mostrar contenido real.
-heroPrimaryCtaLabel: Contactar
-heroPrimaryCtaHref: /contacto
-heroSecondaryCtaLabel: Ver servicios
-heroSecondaryCtaHref: /servicios
-testimonialsDisplayMode: grid
+heroTitle: "EL GARAGE DE LOS QUE NO SE CONFORMAN."
+heroSubtitle: "Mecánica, enderezado y pintura. Diagnóstico real, presupuesto transparente, garantía escrita."
+heroPrimaryCtaLabel: "Cotizar por WhatsApp"
+heroPrimaryCtaHref: "/contacto"
+heroSecondaryCtaLabel: "Ver trabajos"
+heroSecondaryCtaHref: "/galeria"
+testimonialsDisplayMode: "grid"
 benefits:
-  - icon: Sparkles
-    title: Beneficio destacado 1
-    description: Descripción breve y genérica del beneficio que ofrecemos a nuestros clientes.
-  - icon: ShieldCheck
-    title: Beneficio destacado 2
-    description: Descripción breve y genérica de un segundo beneficio diferenciador.
-  - icon: Rocket
-    title: Beneficio destacado 3
-    description: Descripción breve y genérica de un tercer beneficio que aporta valor.
-  - icon: Users
-    title: Beneficio destacado 4
-    description: Descripción breve y genérica de un cuarto beneficio para nuestros clientes.
+  - icon: "car"
+    title: "1,200+ autos atendidos"
+    description: "Más de una década resolviendo lo que otros no pudieron."
+  - icon: "shield-check"
+    title: "Garantía de 90 días por escrito"
+    description: "Sin letra chica. Si falla por causa nuestra, lo corregimos."
+  - icon: "search"
+    title: "Diagnóstico sin costo"
+    description: "El presupuesto es gratis. Solo pagás si aprobás el trabajo."
+  - icon: "file-text"
+    title: "Trabajamos con peritos"
+    description: "Reporte fotográfico y presupuesto desglosado para seguros."
 aboutSummary:
-  title: Sobre Empresa Demo
-  body: Somos una empresa de servicios genérica que ofrece soluciones de calidad y confianza. Llevamos años ayudando a clientes a alcanzar sus objetivos con propuestas a la medida.
-  ctaLabel: Conocer más
-  ctaHref: /nosotros
-  image: /content-uploads/about-summary.jpg
+  title: "NACIMOS POR LO MISMO QUE TÚ ESTÁS AQUÍ."
+  body: "Octane nació porque los talleres que conocíamos prometían mucho y explicaban poco. Hoy hacemos lo opuesto: te mostramos el diagnóstico, te explicamos el trabajo, y si no es necesario — no lo hacemos."
+  ctaLabel: "Conocer el equipo"
+  ctaHref: "/nosotros"
+  image: "/content-uploads/octane/about/equipo-octane.jpg"
 ctaBanner:
-  title: ¿Listo para empezar?
-  description: Conversemos sobre cómo podemos ayudarte con tus próximos proyectos.
-  ctaLabel: Contactar ahora
-  ctaHref: /contacto
+  title: "¿Listo para que tu auto vuelva a ser lo que era?"
+  description: "Diagnóstico honesto, presupuesto transparente, garantía escrita."
+  ctaLabel: "Cotizar por WhatsApp"
+  ctaHref: "/contacto"
 ---
-
-Contenido auxiliar del Home (no se renderiza en V1).

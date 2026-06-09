@@ -1,12 +1,8 @@
 ---
-name: Miguel Soto
-slug: testimonio-2
-photo: /content-uploads/testimonials/miguel-soto.jpg
-rating: 4
+name: "Ana R."
+photo: ""
+rating: 5
 order: 2
-instagramUrl: https://instagram.com/
-tiktokUrl: https://tiktok.com/
 ---
 
-El equipo nos ayudó a ordenar todo el proceso y a mejorar nuestros resultados.
-La comunicación fue clara y el acompañamiento, constante.
+"Me explicaron todo antes de arrancar y respetaron el presupuesto al centavo. En ningún momento sentí que me estaban vendiendo trabajo innecesario." — Nissan Sentra 2021.
