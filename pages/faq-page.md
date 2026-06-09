@@ -1,6 +1,6 @@
 ---
-title: "Manual de Servicio"
+title: "MANUAL DE SERVICIO"
 subtitle: "Las preguntas que todos hacen antes de traer el auto."
-description: "Respondemos las dudas más comunes sobre mecánica, pintura, garantías y seguros en Octane Mecánica."
-emptyMessage: "Próximamente más preguntas. Escribinos si tenés alguna duda."
+description: "Respuestas directas, sin letra chica. Si tu duda no está acá, escribinos."
+emptyMessage: "Próximamente más preguntas frecuentes."
 ---

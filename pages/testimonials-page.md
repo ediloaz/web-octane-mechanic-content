@@ -1,6 +1,6 @@
 ---
-title: "Lo que dicen nuestros clientes"
-subtitle: "Experiencias reales de propietarios que confiaron en Octane Mecánica."
-description: "Testimonios de clientes satisfechos con el servicio de mecánica, enderezado y pintura de Octane."
-emptyMessage: "Próximamente los primeros testimonios. ¿Ya trabajaste con nosotros? Escribinos."
+title: "LO QUE DICEN NUESTROS CLIENTES"
+subtitle: "Reseñas reales. Sin incentivos, sin filtros."
+description: "Cada testimonio es un caso documentado. El problema que llegó, el resultado que salió."
+emptyMessage: "Próximamente más testimonios. Si trabajaste con nosotros, contanos tu experiencia."
 ---

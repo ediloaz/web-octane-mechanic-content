@@ -16,15 +16,15 @@ team:
   - name: "[COMPLETAR: Nombre]"
     role: "Mecánico General"
     bio: "Especialista en motor y diagnóstico eléctrico automotriz"
-    avatar: "/content-uploads/octane/about/tecnico-01.jpg"
+    photo: "/content-uploads/octane/about/tecnico-01.jpg"
   - name: "[COMPLETAR: Nombre]"
     role: "Especialista en Carrocería"
     bio: "Enderezado y preparación de superficie con banco de estiramiento"
-    avatar: "/content-uploads/octane/about/tecnico-02.jpg"
+    photo: "/content-uploads/octane/about/tecnico-02.jpg"
   - name: "[COMPLETAR: Nombre]"
     role: "Pintor Automotriz"
     bio: "Pintura y corrección de color con escáner espectrofotométrico"
-    avatar: "/content-uploads/octane/about/tecnico-03.jpg"
+    photo: "/content-uploads/octane/about/tecnico-03.jpg"
 ---
 
 Octane nació porque los talleres que conocíamos prometían mucho y explicaban poco. Hoy hacemos lo opuesto: te mostramos el diagnóstico, te explicamos el trabajo, y si no es necesario — no lo hacemos.

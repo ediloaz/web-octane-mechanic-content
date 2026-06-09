@@ -1,8 +1,9 @@
 ---
-name: "Carlos M."
+name: "Carlos M. — Toyota Corolla 2019"
 photo: ""
 rating: 5
 order: 1
 ---
 
-"Quedó idéntico al color original. Ni se nota. Entregaron un día antes de la fecha prometida." — Toyota Corolla 2019, enderezado y pintura.
+PROBLEMA: Rayón profundo en puerta trasera derecha
+"Quedó idéntico al color original. Ni se nota. Entregaron un día antes de la fecha prometida."

@@ -1,5 +1,7 @@
 ---
-heroTitle: "EL GARAGE DE LOS QUE NO SE CONFORMAN."
+heroTitle: |
+  EL GARAGE
+  DE LOS QUE NO SE CONFORMAN.
 heroSubtitle: "Mecánica, enderezado y pintura. Diagnóstico real, presupuesto transparente, garantía escrita."
 heroPrimaryCtaLabel: "Cotizar por WhatsApp"
 heroPrimaryCtaHref: "/contacto"
@@ -11,7 +13,7 @@ benefits:
     title: "1,200+ autos atendidos"
     description: "Más de una década resolviendo lo que otros no pudieron."
   - icon: "shield-check"
-    title: "Garantía de 90 días por escrito"
+    title: "90 días garantía escrita"
     description: "Sin letra chica. Si falla por causa nuestra, lo corregimos."
   - icon: "search"
     title: "Diagnóstico sin costo"

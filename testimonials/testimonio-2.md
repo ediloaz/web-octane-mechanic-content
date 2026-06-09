@@ -1,8 +1,9 @@
 ---
-name: "Ana R."
+name: "Ana R. — Nissan Sentra 2017"
 photo: ""
 rating: 5
 order: 2
 ---
 
-"Me explicaron todo antes de arrancar y respetaron el presupuesto al centavo. En ningún momento sentí que me estaban vendiendo trabajo innecesario." — Nissan Sentra 2021.
+PROBLEMA: Presupuesto inflado en otro taller
+"Me explicaron todo antes de arrancar y respetaron el presupuesto al centavo."

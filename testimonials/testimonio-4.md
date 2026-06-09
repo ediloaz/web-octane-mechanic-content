@@ -5,4 +5,5 @@ rating: 5
 order: 4
 ---
 
-"Trabajo con peritos de seguros con frecuencia. Octane es de los pocos talleres que documenta todo correctamente — reporte fotográfico, presupuesto desglosado, facturas limpias. Mis clientes quedan conformes y el proceso no se traba."
+PROBLEMA: Talleres que no documentan para trámites de seguro
+"Trabajo con peritos frecuentemente. Octane es de los pocos talleres que documenta todo correctamente."
