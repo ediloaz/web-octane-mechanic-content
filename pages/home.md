@@ -4,7 +4,7 @@ heroTitle: |
   DE LOS QUE NO SE CONFORMAN.
 heroSubtitle: "Mecánica, enderezado y pintura. Diagnóstico real, presupuesto transparente, garantía escrita."
 heroEyebrow: "Taller de chapa, pintura y mecánica — Desde 2015"
-heroImage: "/content-uploads/home/hero-taller.jpg"
+heroImage: "/content-uploads/home/hero-taller.png"
 heroTags:
   - "Mecánica general"
   - "Enderezado"
