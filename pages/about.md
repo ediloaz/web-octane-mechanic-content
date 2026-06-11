@@ -1,5 +1,5 @@
 ---
-heroImage: "/content-uploads/octane/about/equipo-octane.jpg"
+heroImage: "/content-uploads/about/equipo-octane.jpg"
 heroTitle: "QUIÉNES SOMOS"
 heroSubtitle: "Sin corporativos. Sin frases vacías. Solo trabajo real."
 storyTitle: "NACIMOS POR LO MISMO QUE TÚ ESTÁS AQUÍ."
@@ -16,15 +16,15 @@ team:
   - name: "Marco Solano"
     role: "Mecánico General"
     bio: "Especialista en motor y diagnóstico eléctrico automotriz"
-    photo: "/content-uploads/octane/about/tecnico-01.jpg"
+    photo: "/content-uploads/about/tecnico-01.jpg"
   - name: "Andrés Mora"
     role: "Especialista en Carrocería"
     bio: "Enderezado y preparación de superficie con banco de estiramiento"
-    photo: "/content-uploads/octane/about/tecnico-02.jpg"
+    photo: "/content-uploads/about/tecnico-02.jpg"
   - name: "Luis Vargas"
     role: "Pintor Automotriz"
     bio: "Pintura y corrección de color con escáner espectrofotométrico"
-    photo: "/content-uploads/octane/about/tecnico-03.jpg"
+    photo: "/content-uploads/about/tecnico-03.jpg"
 ---
 
 Octane nació porque los talleres que conocíamos prometían mucho y explicaban poco. Hoy hacemos lo opuesto: te mostramos el diagnóstico, te explicamos el trabajo, y si no es necesario — no lo hacemos.

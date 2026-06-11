@@ -4,7 +4,7 @@ slug: "enderezado-carroceria"
 order: 6
 icon: "hammer"
 summary: "Chapa a mano y con equipo. Sin rellenos de yeso."
-coverImage: "/content-uploads/octane/services/enderezado-cover.jpg"
+coverImage: "/content-uploads/services/enderezado-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: true

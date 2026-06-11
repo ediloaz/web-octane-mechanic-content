@@ -4,7 +4,7 @@ slug: "aire-acondicionado"
 order: 3
 icon: "wind"
 summary: "Recarga de gas, diagnóstico de compresor y reparación del sistema."
-coverImage: "/content-uploads/octane/services/aire-acondicionado-cover.jpg"
+coverImage: "/content-uploads/services/aire-acondicionado-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: false

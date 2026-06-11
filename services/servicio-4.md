@@ -4,7 +4,7 @@ slug: "motor"
 order: 4
 icon: "settings"
 summary: "Afinación, distribución, juntas y revisión completa de consumibles."
-coverImage: "/content-uploads/octane/services/motor-cover.jpg"
+coverImage: "/content-uploads/services/motor-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: true

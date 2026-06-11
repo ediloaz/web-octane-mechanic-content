@@ -4,7 +4,7 @@ slug: "pintura-automotriz"
 order: 7
 icon: "droplets"
 summary: "Parcial o completa. Igualamos color con escáner espectrofotométrico."
-coverImage: "/content-uploads/octane/services/pintura-cover.jpg"
+coverImage: "/content-uploads/services/pintura-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: true

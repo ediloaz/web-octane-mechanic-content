@@ -4,7 +4,7 @@ slug: "suspension-direccion"
 order: 5
 icon: "navigation"
 summary: "Amortiguadores, rótulas, terminales — el auto que no jalonea de más."
-coverImage: "/content-uploads/octane/services/suspension-cover.jpg"
+coverImage: "/content-uploads/services/suspension-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: false

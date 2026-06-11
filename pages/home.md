@@ -4,7 +4,7 @@ heroTitle: |
   DE LOS QUE NO SE CONFORMAN.
 heroSubtitle: "Mecánica, enderezado y pintura. Diagnóstico real, presupuesto transparente, garantía escrita."
 heroEyebrow: "Taller de chapa, pintura y mecánica — Desde 2015"
-heroImage: "/content-uploads/octane/home/hero-taller.jpg"
+heroImage: "/content-uploads/home/hero-taller.jpg"
 heroTags:
   - "Mecánica general"
   - "Enderezado"
@@ -34,7 +34,7 @@ aboutSummary:
   body: "Octane nació porque los talleres que conocíamos prometían mucho y explicaban poco. Hoy hacemos lo opuesto: te mostramos el diagnóstico, te explicamos el trabajo, y si no es necesario — no lo hacemos."
   ctaLabel: "Conocer el equipo"
   ctaHref: "/nosotros"
-  image: "/content-uploads/octane/about/equipo-octane.jpg"
+  image: "/content-uploads/about/equipo-octane.jpg"
 ctaBanner:
   title: "¿Listo para que tu auto vuelva a ser lo que era?"
   description: "Diagnóstico honesto, presupuesto transparente, garantía escrita."

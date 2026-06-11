@@ -4,7 +4,7 @@ slug: "pulido-detallado"
 order: 8
 icon: "sparkles"
 summary: "Corrección de pintura, pulido de faros y protección cerámica."
-coverImage: "/content-uploads/octane/services/pulido-cover.jpg"
+coverImage: "/content-uploads/services/pulido-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: false

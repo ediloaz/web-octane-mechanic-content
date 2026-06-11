@@ -4,7 +4,7 @@ slug: "diagnostico-electrico-computarizado"
 order: 1
 icon: "cpu"
 summary: "Escáner de códigos OBD + revisión del sistema eléctrico. Sin adivinar."
-coverImage: "/content-uploads/octane/services/diagnostico-electrico-cover.jpg"
+coverImage: "/content-uploads/services/diagnostico-electrico-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: true

@@ -4,7 +4,7 @@ slug: "frenos"
 order: 2
 icon: "disc"
 summary: "Balatas, discos, tambores y líquido. No esperamos a que truenen."
-coverImage: "/content-uploads/octane/services/frenos-cover.jpg"
+coverImage: "/content-uploads/services/frenos-cover.jpg"
 ctaLabel: "Cotizar este servicio"
 ctaHref: "/contacto"
 featured: true
