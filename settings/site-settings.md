@@ -1,25 +1,25 @@
 ---
 generalSettings:
-  brandName: Empresa Demo
-  tagline: Calidad y confianza
-  description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
-  primaryColor: '#0EA5E9'
-  secondaryColor: '#F59E0B'
+  brandName: Octane Mecánica
+  tagline: Diagnóstico honesto. Trabajo impecable.
+  description: En Octane no adivinamos — diagnosticamos. Del motor a la carrocería, cada trabajo sale con garantía escrita y sin sorpresas en la cuenta final.
+  primaryColor: '#0D0D0D'
+  secondaryColor: '#E8A020'
   darkModeEnabled: true
 modulesEnabled:
   home: true
   about: true
   services: true
-  products: true
+  products: false
   portfolio: false
-  gallery: false
+  gallery: true
   promotions: false
-  blog: true
+  blog: false
   testimonials: true
   contact: true
   faq: true
 contactSettings:
-  whatsappNumber: '15550000000'
-  whatsappMessage: Hola, vi su sitio web y...
-  email: info@demo.com
+  whatsappNumber: '50688765432'
+  whatsappMessage: Hola, necesito un presupuesto para mi auto. ¿Me pueden ayudar?
+  email: taller@octanemec.cr
 ---

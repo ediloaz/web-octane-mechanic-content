@@ -1,9 +1,9 @@
 ---
 heroTitle: "LLEGA AL TALLER"
-heroSubtitle: "Contáctanos por el medio que prefieras. Respuesta en menos de 2 horas en horario de atención."
+heroSubtitle: "Estamos en San Rafael de Escazú, a 5 minutos de Multiplaza. Respuesta en menos de 2 horas en horario de atención."
 formTitle: "Coordina tu visita"
-formSuccessMessage: "Recibimos tu mensaje. Te respondemos en menos de 2 horas en horario de atención. También podés escribirnos directo por WhatsApp."
+formSuccessMessage: "Recibimos tu mensaje. Te respondemos en menos de 2 horas en horario de atención. También podés escribirnos directo al +506 8876 5432."
 showMap: true
 showCalcom: false
-extraInfo: "También podés escribirnos directo por WhatsApp para una respuesta más rápida."
+extraInfo: "200 m sur del BCR San Rafael, contiguo a Plaza Tempo, Escazú. Waze y Google Maps nos encuentran como Octane Mecánica."
 ---

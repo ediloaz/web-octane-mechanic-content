@@ -5,4 +5,6 @@ order: 4
 featured: false
 ---
 
-Aceptamos efectivo y transferencia bancaria. [COMPLETAR: confirmar si aceptan tarjeta de crédito/débito.]
+Aceptamos efectivo, transferencia bancaria (SINPE) y tarjetas de crédito y débito (Visa y Mastercard).
+
+Para trabajos con seguro, también coordinamos el cobro directo con la aseguradora cuando aplica.

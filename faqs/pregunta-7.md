@@ -5,6 +5,6 @@ order: 7
 featured: false
 ---
 
-[COMPLETAR: confirmar si tienen grúa propia o convenio con servicio de grúa de confianza.]
+No tenemos grúa propia, pero trabajamos con un servicio de grúa de confianza en la zona de Escazú y el Gran Área Metropolitana.
 
-Si tu auto no puede moverse por sus propios medios, escribinos por WhatsApp y coordinamos la solución.
+Si tu auto no puede moverse por sus propios medios, escribinos por WhatsApp al +506 8876 5432 y coordinamos el traslado al taller.
