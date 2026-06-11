@@ -3,6 +3,14 @@ heroTitle: |
   EL GARAGE
   DE LOS QUE NO SE CONFORMAN.
 heroSubtitle: "Mecánica, enderezado y pintura. Diagnóstico real, presupuesto transparente, garantía escrita."
+heroEyebrow: "Taller de chapa, pintura y mecánica — Desde 2015"
+heroImage: "/content-uploads/octane/home/hero-taller.jpg"
+heroTags:
+  - "Mecánica general"
+  - "Enderezado"
+  - "Pintura"
+  - "Diagnóstico"
+  - "Seguros"
 heroPrimaryCtaLabel: "Cotizar por WhatsApp"
 heroPrimaryCtaHref: "/contacto"
 heroSecondaryCtaLabel: "Ver trabajos"
