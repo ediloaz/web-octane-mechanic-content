@@ -1,8 +1,8 @@
 ---
-title: "Daño por granizo — Cofre y techo"
-imageBefore: "/content-uploads/gallery/trabajo-03-antes.jpg"
-image: "/content-uploads/gallery/trabajo-03-despues.jpg"
-alt: "Cofre y techo restaurados con PDR sin pintura tras daño por granizo"
+title: "Choque frontal — Cofre, bumper y radiador"
+imageBefore: "/content-uploads/gallery/trabajo-03-antes.png"
+image: "/content-uploads/gallery/trabajo-03-despues.png"
+alt: "Vehículo restaurado tras choque frontal, geometría y pintura como original"
 category: "Chapa"
 order: 3
 ---
