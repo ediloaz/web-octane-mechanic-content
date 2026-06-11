@@ -1,5 +1,5 @@
 ---
-heroImage: "/content-uploads/about/equipo-octane.jpg"
+heroImage: "/content-uploads/about/equipo-octane.png"
 heroTitle: "QUIÉNES SOMOS"
 heroSubtitle: "Sin corporativos. Sin frases vacías. Solo trabajo real."
 storyTitle: "NACIMOS POR LO MISMO QUE TÚ ESTÁS AQUÍ."

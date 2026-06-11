@@ -34,7 +34,7 @@ aboutSummary:
   body: "Octane nació porque los talleres que conocíamos prometían mucho y explicaban poco. Hoy hacemos lo opuesto: te mostramos el diagnóstico, te explicamos el trabajo, y si no es necesario — no lo hacemos."
   ctaLabel: "Conocer el equipo"
   ctaHref: "/nosotros"
-  image: "/content-uploads/about/equipo-octane.jpg"
+  image: "/content-uploads/about/equipo-octane.png"
 ctaBanner:
   title: "¿Listo para que tu auto vuelva a ser lo que era?"
   description: "Diagnóstico honesto, presupuesto transparente, garantía escrita."
